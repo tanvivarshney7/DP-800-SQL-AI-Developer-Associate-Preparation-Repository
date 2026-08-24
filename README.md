@@ -1,5 +1,4 @@
 # DP-800-SQL-AI-Developer-Associate-Preparation-Repository
-# SQL-AI-Developer-DP-800-
 
 ## SQL AI Developer Associate (DP-800) — Exam Prep Notes
 
